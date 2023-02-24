@@ -1,5 +1,5 @@
 {
-    "name": "sunspikes/clamav-validator",
+    "name": "aaronlord/clamav-validator",
     "description": "Custom Laravel 5 anti-virus validator for file uploads.",
     "keywords": [
         "laravel",
